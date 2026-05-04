@@ -56,4 +56,4 @@ For the AI assistant, set one of:
 
 ## Replacing Placeholder Images
 
-Product images currently use `/public/placeholder.png`. Replace by adding real product photos to `/public/` and updating the `image` field in `src/data/products.ts`.
+Product images currently use `/public/placeholder.png`. Replace by adding real product photos to `/public/` and updating the `image` field in `src/data/products.ts`..
